@@ -1,0 +1,10 @@
+numpy==1.24.3
+pandas==2.0.3
+matplotlib
+seaborn
+tensorflow==2.13.0
+keras
+tqdm
+scikit-learn==1.2.0
+scipy==1.10.1
+glob2
